@@ -1,39 +1,35 @@
 # VisaByte
 
-**A self-serve case-management platform for study-abroad and visa consultancy firms.**
+**A self-serve workspace for study-abroad and visa consultancy firms to manage student cases.**
 
-This repository is a showcase. Source code is private.
+This repository is a public product showcase. The application source code is maintained separately.
 
 ## Who it's for
 
-VisaByte is for study-abroad and visa consultancy firms managing student enquiries and applications. It helps consultancy teams organise student documents, tasks and communication in one workspace.
+VisaByte is built for study-abroad agencies and visa consultancy firms that manage multiple student enquiries and applications. It gives agency owners and their teams one place to organise student records, application progress, documents, tasks and communication while giving students access to a dedicated case portal.
 
 ## Key features
 
-- Student enquiry management
-- Student application management
-- Student document management
-- Task and follow-up management
-- Student communication and team workspace
+- **Enquiry management** — organise prospective student enquiries and keep each prospect connected to their case.
+- **School discovery** — research relevant institutions and study programmes to support student placement decisions.
+- **Application tracking** — manage student applications and follow progress across the application journey.
+- **Document management** — collect, organise, review and track student documents.
+- **Team and student workspace** — coordinate tasks and case-related messages, manage team access, and provide students with a portal for their case information.
 
-## Screenshots
+## Product access
 
-![Screenshot 1 - [FILL_IN: dashboard overview]](docs/screenshots/01.png)
-![Screenshot 2 - [FILL_IN: student application view]](docs/screenshots/02.png)
-![Screenshot 3 - [FILL_IN: document management view]](docs/screenshots/03.png)
+VisaByte is available as a self-serve product. Firms can create an account and use the platform directly without a manual demo or onboarding call.
 
-## Tech stack
+- Website: https://visabyte.thegiantreach.com
+- Sign up: https://visabyte.thegiantreach.com/signup
 
-- JavaScript — [CONFIRM]
-- Supabase — [CONFIRM]
-- PostgreSQL — [CONFIRM]
-- Vercel — [CONFIRM]
-- Render — [CONFIRM]
-- GitHub — [CONFIRM]
+## Technology
+
+The product uses Supabase and PostgreSQL for its data platform. The public showcase repository does not contain the application source code or enough implementation files to document the full frontend and hosting stack.
 
 ## Status
 
-[FILL_IN: Live / In development / Private beta].
+Live product with self-serve account registration.
 
 ## About
 
