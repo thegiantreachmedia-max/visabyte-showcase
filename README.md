@@ -1,49 +1,40 @@
 # VisaByte
 
-**A student application and case-management workspace for study-abroad and visa consultancy firms.**
+**A self-serve case-management platform for study-abroad and visa consultancy firms.**
 
-VisaByte helps consultancy teams organise student enquiries, applications, documents, tasks and communication in one workspace—so each student case is easier to manage from first enquiry through the application process.
+This repository is a showcase. Source code is private.
 
-[Visit VisaByte](https://visabyte.thegiantreach.com) · [Create an account](https://visabyte.thegiantreach.com/signup) · [The Giant Reach](https://www.thegiantreach.com)
+## Who it's for
 
----
+VisaByte is for study-abroad and visa consultancy firms managing student enquiries and applications. It helps consultancy teams organise student documents, tasks and communication in one workspace.
 
-## The problem
+## Key features
 
-Study-abroad consultancies often coordinate student information across spreadsheets, chat threads, folders and disconnected tools. This makes it harder to track application progress, keep documents organised and maintain a clear view of each student's case.
+- Student enquiry management
+- Student application management
+- Student document management
+- Task and follow-up management
+- Student communication and team workspace
 
-## What VisaByte brings together
+## Screenshots
 
-- **Enquiries** — keep prospective student enquiries organised.
-- **School discovery** — research study options as part of the student journey.
-- **Applications** — manage student applications and their progress.
-- **Documents** — organise student files and track document review status.
-- **Student communication** — keep case-related conversations connected to the workflow.
-- **Tasks** — track follow-ups and operational work.
-- **Team workspace** — collaborate with role-based access.
-- **Reports and settings** — manage firm operations from one place.
-- **Student portal** — give students a dedicated view of their case information and relevant updates.
+![Screenshot 1 - [FILL_IN: dashboard overview]](docs/screenshots/01.png)
+![Screenshot 2 - [FILL_IN: student application view]](docs/screenshots/02.png)
+![Screenshot 3 - [FILL_IN: document management view]](docs/screenshots/03.png)
 
-## Designed for consultancy workflows
+## Tech stack
 
-VisaByte is built around the relationship between a consultancy firm, its team and its students. The goal is to reduce scattered administration and make each case easier to follow.
+- JavaScript — [CONFIRM]
+- Supabase — [CONFIRM]
+- PostgreSQL — [CONFIRM]
+- Vercel — [CONFIRM]
+- Render — [CONFIRM]
+- GitHub — [CONFIRM]
 
-## Product access
+## Status
 
-VisaByte is a self-serve product. Firms can create an account and explore the platform directly.
+[FILL_IN: Live / In development / Private beta].
 
-- Website: https://visabyte.thegiantreach.com
-- Sign up: https://visabyte.thegiantreach.com/signup
+## About
 
-## Built by The Giant Reach
-
-VisaByte is a product by **[The Giant Reach](https://www.thegiantreach.com)**, a software studio building client acquisition and workflow systems for businesses.
-
----
-
-> This repository is a public product showcase. The VisaByte application source code and private implementation remain in a separate private repository.
-
-**Product:** VisaByte  
-**Category:** Study-abroad and visa consultancy software  
-**Website:** https://visabyte.thegiantreach.com  
-**Built by:** The Giant Reach
+Built by [The Giant Reach](https://www.thegiantreach.com), a software company for immigration entrepreneurs, visa consultants, immigration firms and study-abroad businesses in Africa.
