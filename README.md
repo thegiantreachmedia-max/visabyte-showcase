@@ -16,6 +16,12 @@ VisaByte is built for study-abroad agencies and visa consultancy firms that mana
 - **Document management** — collect, organise, review and track student documents.
 - **Team and student workspace** — coordinate tasks and case-related messages, manage team access, and provide students with a portal for their case information.
 
+## Screenshots
+
+### VisaByte dashboard
+
+![VisaByte dashboard showing the student case management workspace](https://res.cloudinary.com/dyeczayre/image/upload/v1790360696/VisaByte_Dashboard_Screenshot_rgy4ke.png)
+
 ## Product access
 
 VisaByte is available as a self-serve product. Firms can create an account and use the platform directly without a manual demo or onboarding call.
@@ -27,7 +33,6 @@ VisaByte is available as a self-serve product. Firms can create an account and u
 
 - Supabase
 - PostgreSQL
-
 
 ## Status
 
