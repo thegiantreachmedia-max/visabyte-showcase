@@ -23,9 +23,11 @@ VisaByte is available as a self-serve product. Firms can create an account and u
 - Website: https://visabyte.thegiantreach.com
 - Sign up: https://visabyte.thegiantreach.com/signup
 
-## Technology
+## Tech stack
 
-The product uses Supabase and PostgreSQL for its data platform. The public showcase repository does not contain the application source code or enough implementation files to document the full frontend and hosting stack.
+- Supabase
+- PostgreSQL
+
 
 ## Status
 
